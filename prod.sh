@@ -1,1 +1,1 @@
-echp "this is production environment and deployement is successfull"
+echo "this is production environment and deployement is successfull"
